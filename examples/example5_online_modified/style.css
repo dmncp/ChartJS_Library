@@ -1,0 +1,17 @@
+#main{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+}
+
+input, button, label{
+    width: 210px;
+    margin: 10px;
+}
+
+button{
+    color: white;
+    background-color: blue;
+    height: 50px;
+}

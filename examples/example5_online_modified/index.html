@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="style.css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+  <div id="main">
+    <label for="toArr1">Element do dodania do tablicy 1</label>
+    <input type="text" id="toArr1" value="1">
+
+    <label for="toArr2">Element do dodania do tablicy 2</label>
+    <input type="text" id="toArr2" value="1">
+
+    <button id="first" type="button" onclick="chooseCorrectArray(this)">Dodaj element do tablicy 1</button>
+    <button id="second" type="button" onclick="chooseCorrectArray(this)">Dodaj element do tablicy 2</button>
+  </div>
+
+  <div id="description">
+    <p>Elementów w tablicy 1 jest: <span>0</span></p>
+    <p>Elementów w tablicy 2 jest: <span>0</span></p>
+    <p>Elementów łącznie: <span>0</span></p>
+  </div>
+
+  <canvas id="canvas5" style="width: 500px; height: 500px"></canvas>
+  <canvas id="canvas6" style="width: 500px; height: 250px"></canvas>
+
+  <script src="../../script.js"></script>
+  <script src="script.js"></script>
+
+</body>
+</html>
