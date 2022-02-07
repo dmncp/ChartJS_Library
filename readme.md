@@ -56,14 +56,13 @@ pieChartExample1.render();
 
 1. Wykres kołowy przedstawiający procentowy udział w rynku kilku konkurencyjnych firm.
 
-   ![image-20220207125631202](screens\image-20220207125631202.png)
+![image-20220207125631202](screens/image-20220207125631202.png)
 
    
+2. Wykres słupkowy przedstawiający sprzedaż towarów (w sztukach) w firmie w jednym roku kalendarzowym.
 
-   2. Wykres słupkowy przedstawiający sprzedaż towarów (w sztukach) w firmie w jednym roku kalendarzowym.
+![image-20220207125831763](screens/image-20220207125831763.png)
 
-      ![image-20220207125831763](screens\image-20220207125831763.png)
+3. Bibliotekę można również wykorzystywać do wizualizacji danych zmieniających się dynamicznie.
 
-   3. Bibliotekę można również wykorzystywać do wizualizacji danych zmieniających się dynamicznie.
-
-      ![image-20220207130148548](screens\image-20220207130148548.png)
+![image-20220207130148548](screens/image-20220207130148548.png)
